@@ -11,7 +11,7 @@
 		<br>
 		<div class="sections">Quotes</div>
 		<br>
-		It becomes easier to wake up in the morning when you have aspirations
+		It becomes easier to wake up in the morning when you have goals
 		<br>
 		<br>
 		<br>
