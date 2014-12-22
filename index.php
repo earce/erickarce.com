@@ -18,7 +18,7 @@
 		<a href = "quotes.php">quotes</a>
 		<br>
 		<br>
-		This is my personal website, I hope that through it you get an idea of who I am and what interests me. Free free to approach me, I am always ready to learn something new.<br>
+		This is my personal website, I hope that through it you get an idea of who I am and what interests me. Feel free to approach me, I am always ready to learn something new.<br>
 		<br>
 		erick.arce10 [at] gmail [dot] com<br>
 		<a href = "https://www.linkedin.com/in/erickarce">LinkedIn</a><br>
