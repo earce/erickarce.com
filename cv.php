@@ -12,7 +12,7 @@
 		<div class="sections">Education</div>
 		<br>
 		University Of Maryland, College Park<br>
-		Bachelor of Science in Computer Science<br>
+		Bachelor of Science in Computer Science, May 2015<br>
 		Minor in Spanish Language, Business and Cultures<br>
 		<br>
 		<div class="sections">Professional Experience</div>

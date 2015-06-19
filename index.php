@@ -12,7 +12,7 @@
 		<br>
 		Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett<br>
 		<br>
-		I love creating solutions to the challenging technical problems our society faces today. Due to the nature of the work I am interested in, I felt that studying Computer Science would be most adequate for solving problems of this kind. I hope to continue in this effort when I graduate from the University of Maryland.<br>
+		I love creating solutions to the challenging technical problems our society faces today. Due to the nature of the work I am interested in, I felt that studying Computer Science would be most adequate for solving problems of this kind. I am excited to continue in this effort when I begin my career as a technologist at Goldman Sachs.<br>
 		<br>
 		<a href = "cv.php">curriculum vitae</a><br>
 		<a href = "quotes.php">quotes</a>
