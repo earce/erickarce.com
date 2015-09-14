@@ -7,6 +7,7 @@
 	<body id="centertext">
 		<p>
 		<br>
+		<!-- I see you've made it to the source code of my page. Reach out to me if you have anything interesting, you already have my attention if you're reading this! erick.arce10 [at] gmail [dot] com -->
 		<br>
 		<br>
 		<br>
@@ -20,7 +21,6 @@
 		<br>
 		This is my personal website, I hope that through it you get an idea of who I am and what interests me. Feel free to approach me, I am always ready to learn something new.<br>
 		<br>
-		erick.arce10 [at] gmail [dot] com<br>
 		<a href = "https://www.linkedin.com/in/erickarce">LinkedIn</a><br>
 		<a href = "https://github.com/earce">GitHub</a><br>
 		<a href="download.php?file=ErickArce.pdf">Resume</a>

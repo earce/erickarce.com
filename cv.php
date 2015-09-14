@@ -17,13 +17,17 @@
 		<br>
 		<div class="sections">Professional Experience</div>
 		<br>
-		Space Systems Laboratory, University of Maryland<br>
-		Undergraduate Research Assistant<br>
-		September 2013 - Present<br>
+		Goldman Sachs<br>
+		Technology Analyst<br>
+		July 2015 - Present<br>
 		<br>
 		Divum LLC<br>
 		Co-Founder<br>
 		June 2013 - Present<br>
+		<br>
+		Space Systems Laboratory, University of Maryland<br>
+		Undergraduate Research Assistant<br>
+		September 2013 - July 2015<br>
 		<br>
 		Terrapin Technology Store<br>
 		Sales Associate<br>
@@ -32,10 +36,6 @@
 		Office of Student Enrollment<br>
 		Clerk<br>
 		October 2012 - April 2013<br>
-		<br>
-		McKeldin Library<br>
-		Librarian<br>
-		October 2010 - December 2010
 		<br>
 		<br>
 		<br>
